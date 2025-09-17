@@ -13,6 +13,7 @@ Incluye el uso de **Grad-CAM** para visualizar qué partes de la imagen el model
 │ ├── leopard.jpg
 │ ├── airplane.jpg
 │ └── stop_sign.jpg
+│ └── motorcycle.jpg
 └── README.md
 ```
 ---
